@@ -4,7 +4,7 @@
 
 1. Установите проект
 ```shell
-git clone git@github.com:kirka50/TestCaseAdvanceEn.git
+git clone https://github.com/kirka50/TestCaseAdvanceEn.git
 ```
 2. Установите зависимости.  
 
