@@ -28,6 +28,6 @@ npm run dev
 # Доступы
 
 ### Обычный юзер
-``login: user; passord: 123456789 ``
+``login: user; password: 123456789 ``
 ### Админ
-``login: admin; passord: 123456789``
+``login: admin; password: 123456789``
